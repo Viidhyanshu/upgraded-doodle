@@ -94,6 +94,54 @@ export default function StackedSections() {
   return (
     <div ref={containerRef} style={{ position: "relative" }}>
       <StickyPanel panelRef={panel2Ref} title="Core Committee" members={CORE_MEMBERS} bg="#ffffff" gradient="radial-gradient(ellipse 60% 40% at 50% 0%, rgba(239, 158, 0, 0.05) 0%, transparent 70%)" zIndex={2} />
+      
+      {/* Final Farewell Message */}
+      <footer style={{ 
+        width: '100%', 
+        padding: '140px 4vw', 
+        paddingBottom: '180px',
+        display: 'flex', 
+        flexDirection: 'column', 
+        alignItems: 'center', 
+        justifyContent: 'center',
+        background: '#fff',
+        position: 'relative',
+        zIndex: 5
+      }}>
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1 }}
+          style={{ textAlign: 'center' }}
+        >
+          <div style={{ 
+            display: 'inline-flex', 
+            alignItems: 'center', 
+            gap: '12px',
+            background: '#fbb2d2ff',
+            padding: '15px 45px',
+            borderRadius: '100px',
+            boxShadow: '0 20px 50px rgba(0,0,0,0.1)',
+            border: '1px solid rgba(252, 77, 164, 0.4)',
+            backdropFilter: 'blur(10px)'
+          }}>
+            <Sparkles />
+            <h1 style={{ 
+              fontSize: 'clamp(2rem, 6vw, 4rem)', 
+              fontWeight: 900, 
+              color: '#fc4da4ff', 
+              margin: 0,
+              letterSpacing: '-0.02em',
+              textShadow: '0 0 15px rgba(252, 77, 164, 0.4)'
+            }}>
+              We will miss you
+            </h1>
+          </div>
+          <p style={{ marginTop: '28px', color: 'rgba(0,0,0,0.4)', fontWeight: 500, letterSpacing: '0.1em', textTransform: 'uppercase', fontSize: '0.8rem' }}>
+            IEEE MUJ 2025-26
+          </p>
+        </motion.div>
+      </footer>
     </div>
   );
 }
