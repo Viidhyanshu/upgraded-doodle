@@ -63,12 +63,12 @@ function buildRightClip(): string {
 
 // Newspaper collage images — dark, B&W grid of event photos
 const COLLAGE_PHOTOS = [
-  '/images/team/photo1.svg',
-  '/images/team/pic2.svg',
-  '/images/team/pic3.svg',
-  '/images/team/pic4.svg',
-  'https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&q=80',
-  'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80',
+  '/1.png',
+  '/2.png',
+  '/3.svg',
+  '/4.png',
+  '/5.png',
+  '/6.png',
 ]
 
 //to write something on images
