@@ -17,7 +17,7 @@ import { CORE_MEMBERS, TeamMember } from './teamData';
 interface PanelProps { title: string; members: TeamMember[]; bg: string; zIndex: number; panelRef: React.RefObject<HTMLDivElement | null>; gradient?: string; }
 
 function StickyPanel({ title, members, bg, zIndex, panelRef, gradient }: PanelProps) {
-  const isCore = title === "Core Team";
+  const isCore = title.toLowerCase().includes("core");
 
   return (
     <div
@@ -26,7 +26,7 @@ function StickyPanel({ title, members, bg, zIndex, panelRef, gradient }: PanelPr
         position: isCore ? "relative" : "sticky",
         top: 0,
         minHeight: "100vh",
-        height: isCore ? "auto" : "auto",
+        height: "auto",
         width: "100%",
         zIndex,
         background: bg,
