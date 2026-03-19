@@ -67,7 +67,7 @@ function StickyPanel({ title, members, bg, zIndex, panelRef, gradient }: PanelPr
         </div>
         <DecorBalloon color="rgba(221, 160, 221, 0.6)" size={32} delay={2} />
       </motion.div>
-      <div className="relative z-10 grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 w-full max-w-[980px] justify-center">
+      <div className="relative z-10 grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 w-full max-w-[980px] justify-center px-2">
         {members.map((m, i) => <MemberCard key={`${m.name}-${i}`} member={m} />)}
       </div>
     </div>

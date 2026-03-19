@@ -148,17 +148,29 @@ export default function HeroSection() {
       // MOBILE/TABLET scroll animation
       mm.add('(max-width: 1024px)', () => {
         gsap.to([mobileHeroRef.current, mobileContentRef.current], {
-          y: -window.innerHeight * 1.3,
+          y: -window.innerHeight * 1.5,
           ease: 'power1.inOut',
           scrollTrigger: {
             trigger: ourStoryWrapper.current,
             start: 'top top',
-            end: '+=1450',
+            end: '+=1600',
             scrub: 0.35,
             pin: true,
             pinSpacing: true,
             anticipatePin: 1,
           },
+        })
+
+        // Animate the EC content up so it doesn't get cut off on mobile
+        gsap.to("#hero-ec-content", {
+          y: -450,
+          ease: 'none',
+          scrollTrigger: {
+            trigger: ourStoryWrapper.current,
+            start: 'top top',
+            end: '+=1600',
+            scrub: 0.35,
+          }
         })
       })
 
@@ -202,7 +214,7 @@ export default function HeroSection() {
 
   return (
     <div ref={heroRef} className="relative w-screen overflow-x-hidden text-white bg-black">
-      <div ref={ourStoryWrapper} className="relative min-h-[140vh] z-10 bg-black">
+      <div ref={ourStoryWrapper} className="relative min-h-[160vh] lg:min-h-[140vh] z-10 bg-black">
 
         {/* EC section */}
         <div
@@ -246,8 +258,44 @@ export default function HeroSection() {
               </div>
               <DecorBalloon color="rgba(173, 216, 230, 0.6)" size={40} delay={1.5} />
             </motion.div>
+
+            {/* Cute Surprise Link */}
+            <motion.div 
+              animate={{ y: [0, 5, 0] }}
+              transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
+              style={{ marginBottom: '40px', position: 'relative', zIndex: 10 }}
+            >
+              <a 
+                href="https://youtu.be/QDia3e12czc?si=RshO7VYxt4IF8-up"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ textDecoration: 'none' }}
+              >
+                <motion.div 
+                  whileHover={{ scale: 1.05, background: 'rgba(255, 105, 180, 0.4)' }}
+                  style={{ 
+                    position: 'relative',
+                    background: 'rgba(255, 105, 180, 0.25)', 
+                    backdropFilter: 'blur(10px)',
+                    padding: '12px 32px', 
+                    borderRadius: '50px',
+                    boxShadow: '0 8px 30px rgba(0,0,0,0.1), inset 0 0 0 1px rgba(255,255,255,0.2)',
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    cursor: 'pointer',
+                    transition: 'all 0.3s ease'
+                  }}
+                >
+                  <Sparkles />
+                  <h2 style={{ fontSize: '1.2rem', fontWeight: 800, color: '#fff', textShadow: '0 2px 10px rgba(255,105,180,0.5)', letterSpacing: '0.04em', margin: 0 }}>
+                    🎁 Click here for suprise!!! 🎁
+                  </h2>
+                </motion.div>
+              </a>
+            </motion.div>
             {/* Cards */}
-            <div className="relative z-10 grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 w-full max-w-[980px] justify-center">
+            <div className="relative z-10 grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-6 w-full max-w-[980px] justify-center px-2">
               {EC_MEMBERS.map((m, i) => (
                 <ECCard key={`${m.name}-${i}`} member={m} />
               ))}

@@ -15,10 +15,9 @@ export default function MemberCard({ member }: { member: TeamMember }) {
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       onClick={() => setShowNote(!showNote)}
+      className="w-full max-w-[170px] xs:max-w-[200px] md:max-w-[220px]"
       style={{
         position: "relative",
-        width: "100%",
-        maxWidth: "220px",
         height: "auto",
         aspectRatio: "220 / 290",
         borderRadius: "0",
