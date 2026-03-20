@@ -16,7 +16,7 @@ export const EC_MEMBERS: TeamMember[] = [
     linkedin: "https://www.linkedin.com/in/samakshgupta04",
     github: "https://github.com/AwesomeSam9523/",
     instagram: "https://www.instagram.com/samaksh.gupta04?igsh=c252dTcwNjZldWRp",
-    note: "To the leader who turned every challenge into a lesson and every moment into a memory. You'll be truly missed, Samaksh.",
+    note: "A leader who never needed to be loud to be respected ✨ You led with calmness, clarity, and a quiet kind of confidence that made everything feel manageable. A tech genius, yes—but also someone so soft, approachable, and genuinely kind. You showed us that the best leaders are the ones who make others feel capable 🫶🏻",
   },
   {
     name: "Tamanna Yadav",
@@ -25,7 +25,7 @@ export const EC_MEMBERS: TeamMember[] = [
     linkedin: "https://www.linkedin.com/in/tamanna-yadav-4251a6234",
     github: "",
     instagram: "https://www.instagram.com/tamanna.yadav_?igsh=MWl3Ym16bDMyOHBtZg==",
-    note: "Tamanna, your grace and dedication kept us grounded. Thank you for being the heart and anchor of this team.",
+    note: "You are that perfect mix of chaos, strength, and warmth ☕✨ The one who could handle everything and still be up for chai and long conversations. You created a space where people could laugh, vent, and just exist freely. Strong yet so comforting, fun yet so grounding—you’re truly one of a kind 💅🏻",
   },
 {
   name: "Salaj Singh Bisht",
@@ -34,7 +34,7 @@ export const EC_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/salaj-singh-bisht-837899248",
   github: "",
   instagram: "https://instagram.com/_.bishttt._",
-  note: "Salaj, the way you handled everything with a gentle smile... your presence was a blessing to us all.",
+  note: "You are the thread that quietly holds everything and everyone together 🫶🏻 Being Gen Sec was just your role, but being everyone’s favourite—that’s who you are. You made people feel seen, valued, and connected, without ever trying too hard. Because of you, this wasn’t just a chapter—it was a home. And that feeling is something we’ll never forget 🥹",
 },
 {
   name: "Aryan Verma",
@@ -43,7 +43,7 @@ export const EC_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/aryannnnverma",
   github: "https://github.com/aryannverse",
   instagram: "https://www.instagram.com/aryannverse",
-  note: "Aryan, you didn't just manage tasks, you managed to make everyone feel like family. Thank you for everything.",
+  note: "You brought magic into everything you touched ✨ Like our very own Doraemon, always ready with creativity that made things feel alive. But what made you special wasn’t just your editing—it was how fun, kind, and easy you are to be around. With you, everything felt lighter, cooler, and a little more special 🫶🏻",
 },
 {
   name: "Vinayak Jajoo",
@@ -52,7 +52,7 @@ export const EC_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/vinayak-jajoo-414823250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   github: "",
   instagram: "https://www.instagram.com/vinayakjajoo?igsh=MWZ3NGFkNm83OTEwYg%3D%3D&utm_source=qr",
-  note: "Vinayak, you balanced more than just numbers; you balanced the spirit of this team with your kindness.",
+  note: "There’s a certain calmness about you that makes everything feel steady and in place 🥹 And then there’s your music, your melodies don’t just sound good, they stay. The way you play feels effortless yet so full of depth, like every note carries something meaningful. You’re that rare balance of logic and soul, where everything you do feels composed, thoughtful, and quietly beautiful 🫶🏻",
 },
 {
   name: "Bhavya Jaggi",
@@ -61,7 +61,7 @@ export const EC_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/bhavya-jaggi-20b768284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "https://github.com/BhavyaJaggi12",
   instagram: "https://www.instagram.com/bhav.ya_jaggi?igsh=MTQ0dGJjYWNjeXg0ag==",
-  note: "Bhavya, the way you cared for every single member showed us what true leadership looks like. You're special.",
+  note: "You are truly one of the calmest and most comforting people to be around 🥹 There’s this softness in the way you handle everything- people, situations, even chaos that makes everything feel okay. So pyaare, so understanding, and so easy to talk to, you made everyone feel heard without even trying. A presence that grounds people and makes spaces feel lighter and kinder 🫶🏻",
 },
 {
   name: "Neil Gupta",
@@ -70,7 +70,7 @@ export const EC_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/neil-gupta-97a0242a1",
   github: "",
   instagram: "https://www.instagram.com/neilguptaa._?igsh=MWF0cXV5bHZ1Z3BsMg==",
-  note: "Neil, you built more than just technology; you built lasting connections. Your legacy will stay with us.",
+  note: "You have this effortlessly cool, almost nonchalant energy that makes everything feel lighter ✨ Like no matter how complex things get, you handle it with a quiet “it’s chill” and somehow, it actually becomes chill. A total tech wizard, but never intimidating—just smooth, sharp, and lowkey iconic. There’s something very effortless about you, and that’s what makes you stand out the most. Cool without trying, and brilliant without showing off 🫶🏻",
 },
 ];
 
@@ -83,7 +83,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/aarush-dayal-790812215/",
   github: "",
   instagram: "https://instagram.com/aarushdayal",
-    note: "Aarush, your passion for programs was only matched by your kindness to everyone. Keep shining.",
+    note: "Our Promo Head, known for his iconic “5 event ideas batao” 😭✨ Somehow, every conversation with you begins with that, and it’s become such a core memory for all of us. You always pushed us to think better and be more creative, even when it felt a little overwhelming at first. But that’s what made us grow. Your way of challenging us, mixed with your fun and light energy, made everything so memorable. Truly grateful for all the learnings and moments",
 },
 {
   name: "Tejas Bhadauria",
@@ -146,7 +146,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/sanidhya-jaiswal-033378325/",
   github: "https://github.com/Sanidhya-Jaiswal",
   instagram: "https://instagram.com/@saaaniiee",
-  note: "Sanidhya, your commitment to the team was unparalleled. You'll always be part of the IEEE family.",
+  note: "You’ve always been that person everyone could rely on—super caring, always ready to help, and quietly making sure sab theek hai. And then randomly coming in with “tea dedo” like it’s your daily ritual 😭 somehow turning normal moments into the best ones. Always ready for a quick cards game no matter what the situation is—that energy is unmatched.",
 },
 {
   name: "Tamanna",
@@ -182,7 +182,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/tanmoy-mandal-014a23326/",
   github: "https://github.com/Tanmayman0896",
   instagram: "https://instagram.com/notanmay._",
-  note: "Tanmoy, your technical brilliance was only surpassed by your willingness to help any teammate in need.",
+  note: "Some people teach, and some people make you feel like you can learn anything—you are the second kind ✨ Being around you was always so easy, so real, so full of those “maze aate hai” moments. Whether it was tech or just life, you carried everything with such calm confidence and humility. You never made things feel complicated—you made them feel possible. And that’s something we’ll always carry with us 🥹",
 },
 {
   name: "Shubh Somani",
@@ -254,7 +254,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/abhijay-shrivastava",
   github: "https://github.com/Abhijay0910",
   instagram: "https://instagram.com/Abhijay_0910",
-  note: "Abhijay, you painted our team's identity with colors of creativity and soul. Your art stays with us.",
+  note: "Aap seriously bohut sweet ho—voice itni calm aur soft ki bas “hello” sunte hi mood better ho jata hai 😭 The way you explain things is just different, kabhi aisa feel hi nahi hota ki kuch samajh nahi aa raha—you make everything so easy without making anyone feel dumb. Honestly, aap sirf sweet nahi ho, you’re the kind of person people feel lucky to know. P.S. you look very hot while eating chicken",
 },
 {
   name: "Arindam Sharmaa",
@@ -263,7 +263,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/arindam~sharma~5906",
   github: "",
   instagram: "https://instagram.com//arindamsharma05/",
-  note: "Arindam, your eye for detail and your kind nature made every design feel personal and warm. Thank you.",
+  note: "Aap honestly sabse sweetest aur sabse innocent ho—there’s this genuine softness in the way you talk and the way you treat people that just feels rare. Everything about you is so simple and real, no pretence, no overthinking—bas pure intentions. 😭Honestly, aap jaise log bohot kam milte hain, and knowing you has been one of the nicest parts.",
 },
 {
   name: "Kartik Garg",
@@ -299,7 +299,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/aabha-rajpal-630b41300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "",
   instagram: "https://instagram.com/aabharajpal777",
-  note: "Aabha, your energy and vision for promotions brought our team into the spotlight. You are a true star.",
+  note: "You feel like a soft, beautiful moment that stays 🦋✨ Your love for butterflies mirrors your own presence—delicate, graceful, and quietly captivating. Everything about you feels so thoughtfully aesthetic, like a world where little details matter. You don’t just appreciate beauty—you carry it within you. Being around you feels calm, pretty, and a little magical 🥹💗",
 },
 {
   name: "Shreyas Kumar Singh",
@@ -308,7 +308,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/shreyaskrs/",
   github: "https://github.com/shreyyaz",
   instagram: "https://instagram.com/shreyyaz",
-  note: "Shreyas, your tireless work behind the scenes made sure we were always seen and heard. Thank you.",
+  note: "You are the kind of person who turns spaces into memories and people into a family 🥹 There was always this warmth around you—like no matter how stressful things got, your presence made it all feel lighter. From your little “thoda aur promote karo guys” moments to your gentle “chill karo, ho jaayega,” you never let us feel alone in anything. You didn’t just include everyone, you noticed everyone—and that’s rare. A joyful, pookie soul who made this journey feel safe and happy 🫶🏻",
 },
 {
   name: "Samaira Agarwal",
@@ -371,7 +371,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/sara-pansuriya-936299338",
   github: "",
   instagram: "https://instagram.com/sarapansuriya",
-  note: "Sara, your words gave a voice to our team's mission. Thank you for your poetic dedication.",
+  note: "You turned words into feelings and moments into memories ✨ As Editorial Head, you didn’t just write—you made people feel. And somehow, your personality is just as beautiful as your words. So warm, so adorable, so full of light—you’re truly our little munchkin with the biggest heart. You leave behind not just content, but emotions that will always stay 💌",
 },
 {
   name: "Shreya Daljeet",
@@ -380,7 +380,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/shreya-daljeet-4b7195231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   github: "",
   instagram: "https://instagram.com/shrxyeet",
-  note: "Shreya, your skill and sweet nature made the editorial team a sanctuary of creativity. We'll miss you.",
+  note: "You feel like comfort in its purest form 💗 The kind of presence that doesn’t need to be loud to be deeply felt. There’s something so gentle and genuine about you—like a quiet reassurance that everything will be okay. From your love for Milo to your endlessly kind heart, you’ve given us a softness we didn’t know we needed. You’re not just sweet—you’re unforgettable 🥹",
 },
 {
   name: "Brinda Kashyap",
@@ -416,7 +416,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/dollysrivastava",
   github: "https://github.com/idkdolly",
   instagram: "https://instagram.com/dollysrivastava14 ",
-  note: "Dolly, you handled corporate affairs with such poise and professional charm. You've left big shoes to fill.",
+  note: "You are the thread that quietly holds everything and everyone together 🫶🏻 Being Gen Sec was just your role, but being everyone’s favourite—that’s who you are. You made people feel seen, valued, and connected, without ever trying too hard. Because of you, this wasn’t just a chapter—it was a home. And that feeling is something we’ll never forget 🥹",
 },
 {
   name: "Charu Malik",
@@ -497,7 +497,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/utkarsh-saxena-193163349/",
   github: "",
   instagram: "https://instagram.com/utkarsh_saxena.17",
-  note: "Utkarsh, you were the silent engine that kept everything moving flawlessly. Your dedication was our foundation.",
+  note: "Aap toh pure fun ho—full masti, full energy, and somehow making every moment lighter without even trying 😭 But at the same time, you’re also the one who notices the smallest things about people. Honestly, aap jaise log sirf good times nahi, real bonds bhi create karte hain—and that’s what makes you special.",
 },
 {
   name: "Keshav Anand",
@@ -524,7 +524,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/drishti-verma-240b2b302",
   github: "",
   instagram: "https://instagram.com/drishtivermav7",
-  note: "Drishti, you gave our team a vibrant personality online. Your creativity and sweet spirit made us shine.",
+  note: "You are the reason everything looked as beautiful as it felt 🌸✨ Your aesthetic sense didn’t just shape social media, it shaped how we experienced everything. There’s so much thought, detail, and love in what you do—and it shows. You didn’t just manage aesthetics, you became it 💖",
 },
 {
   name: "Arush Pradhan",
@@ -533,7 +533,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/arush-pradhan-b2023b316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "",
   instagram: "https://instagram.com/cool_crusaderr",
-  note: "Arush, thank you for your commitment to keeping our social presence alive and buzzing with energy.",
+  note: "You turned simple moments into something cinematic 🎸✨ Every time you played, it felt like time slowed down just a little. Your music, your vibe, your warmth—it all came together to create memories that feel so special now. You didn’t just play songs, you gave us feelings we’ll carry forever 🥹",
 },
 {
   name: "Arunika Jain",
@@ -650,6 +650,6 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/aarush-chandra-4r724",
   github: "",
   instagram: "https://instagram.com/weird_kid_07",
-  note: "Aarush, thank you for being you—for your unique spirit and for helping us build such a strong network.",
+  note: "You are the thread that quietly holds everything and everyone together 🫶🏻 Being Gen Sec was just your role, but being everyone’s favourite—that’s who you are. You made people feel seen, valued, and connected, without ever trying too hard. Because of you, this wasn’t just a chapter—it was a home. And that feeling is something we’ll never forget 🥹",
 },
 ];
