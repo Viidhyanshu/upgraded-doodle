@@ -641,7 +641,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/anshuman-singh-766088368/",
   github: "",
   instagram: "https://instagram.com/anshuman.singh070",
-  note: "Anshuman, your commitment to the team was unparalleled. You'll always be a cherished part of our community.",
+  note: "A guiding force who turned chaos into community and strangers into family. Your leadership, warmth, and quiet strength shaped us in ways words can’t fully capture—we’ll carry your impact forever.🥹",
 },
 {
   name: "Aarush Chandra",
