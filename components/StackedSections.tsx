@@ -138,7 +138,7 @@ export default function StackedSections() {
             </h1>
           </div>
           <p style={{ marginTop: '28px', color: 'rgba(0,0,0,0.4)', fontWeight: 500, letterSpacing: '0.1em', textTransform: 'uppercase', fontSize: '0.8rem' }}>
-            IEEE MUJ 2025-26
+            On the Count of 3,3,2,1 IEEE MUJ 2025-26
           </p>
         </motion.div>
       </footer>
