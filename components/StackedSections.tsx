@@ -134,7 +134,7 @@ export default function StackedSections() {
               letterSpacing: '-0.02em',
               textShadow: '0 0 15px rgba(252, 77, 164, 0.4)'
             }}>
-              We will miss you all🥺
+              We will miss you all :))
             </h1>
           </div>
           <p style={{ marginTop: '28px', color: 'rgba(0,0,0,0.4)', fontWeight: 500, letterSpacing: '0.1em', textTransform: 'uppercase', fontSize: '0.8rem' }}>

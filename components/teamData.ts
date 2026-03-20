@@ -92,7 +92,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/tejas-bhadauria-513a78293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "https://github.com/CrystalFire1o8",
   instagram: "https://instagram.com/tejasbhadauriaa",
-  note: "Tejas, you brought crystal clarity and a fiery spirit to everything we did. Thank you.",
+  note: "Bhaiya, you brought crystal clarity and a fiery spirit to everything we did. Thank you.",
 },
 {
   name: "Devang Sabarwal",
@@ -101,7 +101,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/devang-sabbarwal-397563249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   github: "",
   instagram: "https://instagram.com/d4vang",
-  note: "Devang, your steady support made even the most complex days feel easy. You're a star.",
+  note: "Bhaiya, your steady support made even the most complex days feel easy. You're a star.",
 },
 {
   name: "Saksham Jain",
@@ -110,7 +110,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "http://www.linkedin.com/in/saksham-jain-x7",
   github: "",
   instagram: "https://instagram.com/_. saksham_jain",
-  note: "Saksham, the energy you brought to every session was contagious. Keep that spark alive.",
+  note: "Bhaiya, the energy you brought to every session was contagious. Keep that spark alive.",
 },
 {
   name: "Kavya Sharma",
@@ -119,7 +119,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/kavya-sharma-479839335",
   github: "",
   instagram: "https://instagram.com/kavyaaa_9735 ",
-  note: "Kavya, your dedication was the silent strength behind our most successful days. Thank you.",
+  note: "Didi, your dedication was the silent strength behind our most successful days. Thank you.",
 },
 {
   name: "Arnav Pawar",
@@ -128,7 +128,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://linkedin.com/in/arnav-pawar-080867349/",
   github: "",
   instagram: "https://instagram.com/arnav_pawarrr",
-  note: "Arnav, you navigated every hurdle with such poise. You've taught us a lot about resilience.",
+  note: "Bhaiya, you navigated every hurdle with such poise. You've taught us a lot about resilience.",
 },
 {
   name: "Aradhya Bansal",
@@ -137,7 +137,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/aradhyabansal2407",
   github: "",
   instagram: "https://instagram.com/aradhyabansal_24",
-  note: "Aradhya, your creative outlook and sweet nature made the team a better place for everyone.",
+  note: "Bhaiya, your creative outlook and sweet nature made the team a better place for everyone.",
 },
 {
   name: "Sanidhya Jaiswal",
@@ -155,7 +155,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/tamannamalhotra24",
   github: "",
   instagram: "https://instagram.com/tamannamalhotra24 ",
-  note: "Tamanna, your smile and cheerful spirit could lighten up even the longest meetings. We'll miss you.",
+  note: "Didi, your smile and cheerful spirit could lighten up even the longest meetings. We'll miss you.",
 },
 {
   name: "Hemank Kumar",
@@ -164,7 +164,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/hemankkumar24/",
   github: "https://github.com/artyish",
   instagram: "https://instagram.com/hemankfr",
-  note: "Hemank, you didn't just write code; you wrote a story of innovation and kindness. Thank you for leading us.",
+  note: "Bhaiya, you didn't just write code; you wrote a story of innovation and kindness. Thank you for leading us.",
 },
 {
   name: "Disha Chopra",
@@ -173,7 +173,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/disha-chopra-116244339",
   github: "",
   instagram: "https://instagram.com/_disha1210",
-  note: "Disha, your ability to solve complex problems with a calm heart was inspiring to everyone around you.",
+  note: "Didi, your ability to solve complex problems with a calm heart was inspiring to everyone around you.",
 },
 {
   name: "Tanmoy Mandal",
@@ -191,7 +191,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/shubh-somani-aa4a49284",
   github: "https://github.com/ShubhxYT",
   instagram: "https://instagram.com/shubhsomani",
-  note: "Shubh, you brought such positive energy and technical skill to the table. It's been an honor working with you.",
+  note: "Bhaiya, you brought such positive energy and technical skill to the table. It's been an honor working with you.",
 },
 {
   name: "Siddharth Meena",
@@ -200,7 +200,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/siddharth--meena",
   github: "https://github.com/SiddDevZ",
   instagram: "https://instagram.com/siddharthmz",
-  note: "Siddharth, your dedication and quiet strength helped us cross many finish lines. We won't forget you.",
+  note: "Bhaiya, your dedication and quiet strength helped us cross many finish lines. We won't forget you.",
 },
 {
   name: "Saksham Tyagi",
@@ -209,7 +209,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/saksham-tyagi-369109288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "https://github.com/SakshamTyagi17",
   instagram: "https://instagram.com/tyagi_saksham_01",
-  note: "Saksham, your hard work and technical insight were vital to our success. Thank you for your amazing spirit.",
+  note: "Bhaiya, your hard work and technical insight were vital to our success. Thank you for your amazing spirit.",
 },
 {
   name: "Ayush Ranjan",
@@ -218,7 +218,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/ayush-ranjan-muj-cse/",
   github: "https://github.com/Ayush007-pro",
   instagram: "https://www.instagram.com/ayush_ranjan5429/",
-  note: "Ayush, your presence was like a breath of fresh air in the lab. Your kindness and skill will be missed.",
+  note: "Bhaiya, your presence was like a breath of fresh air in the lab. Your kindness and skill will be missed.",
 },
 {
   name: "Kushagra Kaushik",
@@ -227,7 +227,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/kushagrakaushik19",
   github: "",
   instagram: "https://instagram.com/ _uncaged._",
-  note: "Kushagra, thank you for pushing boundaries and bringing such a vibrant attitude to the core team.",
+  note: "Bhaiya, thank you for pushing boundaries and bringing such a vibrant attitude to the core team.",
 },
 {
   name: "Abishri V K",
@@ -236,7 +236,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/abishri-v-k-199bb6333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "",
   instagram: "https://instagram.com/abishrii_kumar ",
-  note: "Abishri, your contributions were quiet but incredibly impactful. Thank you for your dedication.",
+  note: "Didi, your contributions were quiet but incredibly impactful. Thank you for your dedication.",
 },
 {
   name: "Anushka Singh",
@@ -245,7 +245,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://in.linkedin.com/in/anushka-singh-413098294",
   github: "https://github.com/anushkasinghxx",
   instagram: "https://instagram.com/nush.singh05",
-  note: "Anushka, you combined technical skill with a sweet helpfulness that made every project better.",
+  note: "Didi, you combined technical skill with a sweet helpfulness that made every project better.",
 },
 {
   name: "Abhijay Shrivastava",
@@ -272,7 +272,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/kartikgarg123",
   github: "https://github.com/Kartik-Garg-13",
   instagram: "https://instagram.com/kartik_gargg",
-  note: "Kartik, thank you for being the creative engine that kept our visuals fresh and vibrant.",
+  note: "Bhaiya, thank you for being the creative engine that kept our visuals fresh and vibrant.",
 },
 {
   name: "Abhinav Singh Negi",
@@ -281,7 +281,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/abhinav-singh-negi-28360a32a/",
   github: "https://github.com/AbhinvSinghNegi",
   instagram: "",
-  note: "Abhinav, your dedication to every pixel was a testament to your hard work. You'll be missed.",
+  note: "Bhaiya, your dedication to every pixel was a testament to your hard work. You'll be missed.",
 },
 {
   name: "Arjun Khanna",
@@ -290,7 +290,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/arjun-khanna8",
   github: "",
   instagram: "https://instagram.com/arjunnnkhanna",
-  note: "Arjun, your presence added a special layer of creativity to the team. Thank you for your amazing designs.",
+  note: "Bhaiya, your presence added a special layer of creativity to the team. Thank you for your amazing designs.",
 },
 {
   name: "Aabha Rajpal ",
@@ -317,7 +317,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/samaira-agarwal-3608b2247/",
   github: "",
   instagram: "https://instagram.com/samaira_201206",
-  note: "Samaira, your cheerful presence and dedication to promotions made every event a success. We'll miss you.",
+  note: "Didi, your cheerful presence and dedication to promotions made every event a success. We'll miss you.",
 },
 {
   name: "Dev Kumar Raikwar",
@@ -326,7 +326,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/dev-kumar-raikwar-x7/",
   github: "",
   instagram: "https://instagram.com/raikwarxdev@18",
-  note: "Dev, your hard work and positive attitude were key to making our team's reach truly global. Thank you.",
+  note: "Bhaiya, your hard work and positive attitude were key to making our team's reach truly global. Thank you.",
 },
 {
   name: "Aarav Shah",
@@ -335,7 +335,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/aarav-shah-741983349/",
   github: "",
   instagram: "https://instagram.com/aaravshah_1017",
-  note: "Aarav, thank you for your commitment to the team and for always being ready with a creative promotion idea.",
+  note: "Bhaiya, thank you for your commitment to the team and for always being ready with a creative promotion idea.",
 },
 {
   name: "Rashmi Singh",
@@ -344,7 +344,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/rashmi-singh-6a743234a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "",
   instagram: "https://instagram.com/_.khayalipulao",
-  note: "Rashmi, your dedication and support in promotions was truly inspiring. You've been a vital part of our journey.",
+  note: "Didi, your dedication and support in promotions was truly inspiring. You've been a vital part of our journey.",
 },
 {
   name: "Sahanaa Vashishth",
@@ -353,7 +353,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/sahanaa-vashishth-ba32a4332",
   github: "",
   instagram: "https://instagram.com/itzsahanaa",
-  note: "Sahanaa, thank you for bringing a touch of grace and hard work to every campaign we launched.",
+  note: "Didi, thank you for bringing a touch of grace and hard work to every campaign we launched.",
 },
 {
   name: "Amiya Sharma",
@@ -362,7 +362,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/amiya-sharma-75490933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   github: "",
   instagram: "https://instagram.com/amiya_sharma13",
-  note: "Amiya, your spirit and dedication to promotions made a real difference. Thank you for being part of us.",
+  note: "Didi, your spirit and dedication to promotions made a real difference. Thank you for being part of us.",
 },
 {
   name: "Sara Pansuriya",
@@ -389,7 +389,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/brinda-kashyap-b16933331/",
   github: "",
   instagram: "",
-  note: "Brinda, thank you for your commitment to excellence and for always polishing our stories to perfection.",
+  note: "Didi, thank you for your commitment to excellence and for always polishing our stories to perfection.",
 },
 {
   name: "Divyanshi",
@@ -398,7 +398,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/divyanshi-gusainwal-5b6b70350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "",
   instagram: "https://instagram.com/this_is_divyanshi___",
-  note: "Divyanshi, your hard work and creative spirit were a vital part of our team's voice. Thank you.",
+  note: "Didi, your hard work and creative spirit were a vital part of our team's voice. Thank you.",
 },
 {
   name: "Bhavika Yadav",
@@ -407,7 +407,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "http://linkedin.com/in/bhavika-yadav-7b4b3a333",
   github: "",
   instagram: "https://instagram.com/bhavi_karao12",
-  note: "Bhavika, thank you for your dedication and for always bringing a thoughtful perspective to our content.",
+  note: "Didi, thank you for your dedication and for always bringing a thoughtful perspective to our content.",
 },
 {
   name: "Dolly Srivastava",
@@ -425,7 +425,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/charu-malik-56636733a",
   github: "",
   instagram: "https://instagram.com/_charuuuu._",
-  note: "Charu, your dedication and sweet nature made every corporate interaction feel like a warm conversation.",
+  note: "Didi, your dedication and sweet nature made every corporate interaction feel like a warm conversation.",
 },
 {
   name: "Disha Khemka",
@@ -434,7 +434,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/disha-khemka-868b3a35b/",
   github: "https://github.com/Disha-Khemka",
   instagram: "https://instagram.com/dishaa_khemka",
-  note: "Disha, thank you for your commitment and for always representing our team with such integrity and grace.",
+  note: "Didi, thank you for your commitment and for always representing our team with such integrity and grace.",
 },
 {
   name: "Saharsh Vaibhav Lal ",
@@ -443,7 +443,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/saharsh-vaibhav-lal-65061b317/",
   github: "",
   instagram: "https://instagram.com/saharsh_1_1_0_7",
-  note: "Saharsh, your hard work and positive spirit were key to our corporate success. We'll miss your presence.",
+  note: "Bhaiya, your hard work and positive spirit were key to our corporate success. We'll miss your presence.",
 },
 {
   name: "Ayush Tanwar",
@@ -452,7 +452,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/ayush-tanwar-x7/",
   github: "",
   instagram: "https://www.instagram.com/ayushtanwar_07/",
-  note: "Ayush, your impeccable taste and vision for curations set a high standard for us all. Thank you for everything.",
+  note: "Bhaiya, your impeccable taste and vision for curations set a high standard for us all. Thank you for everything.",
 },
 {
   name: "Mehul Manohar Shah",
@@ -461,7 +461,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/mehul-manohar-sah-087a3835b",
   github: "",
   instagram: "https://instagram.com/mehul_manohar_sah",
-  note: "Mehul, your dedication and sweet nature made the curation process a joyful journey for the entire team.",
+  note: "Bhaiya, your dedication and sweet nature made the curation process a joyful journey for the entire team.",
 },
 {
   name: "Samarth Majumbdar",
@@ -470,7 +470,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/samarth-mujumdar-680468332",
   github: "https://github.com/SamarthMujumdar",
   instagram: "https://instagram.com/mujumdar_samarth",
-  note: "Samarth, thank you for your meticulous work and for always ensuring that our team put its best foot forward.",
+  note: "Bhaiya, thank you for your meticulous work and for always ensuring that our team put its best foot forward.",
 },
 {
   name: "Aditya Chauhan",
@@ -479,7 +479,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
   github: "https://github.com/adityaaachauhannn",
   instagram: "https://instagram.com/adityaa.c_",
-  note: "Aditya, your hard work and technical insight were vital to our curation success. Thank you for your amazing spirit.",
+  note: "Bhaiya, your hard work and technical insight were vital to our curation success. Thank you for your amazing spirit.",
 },
 {
   name: "Harshita Agarwal",
@@ -488,7 +488,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/harshita-agarwal-a0578834b/",
   github: "https://github.com/harshita0102",
   instagram: "https://instagram.com/harshita.0102",
-  note: "Harshita, you combined curation skill with a sweet helpfulness that made every project better.",
+  note: "Didi, you combined curation skill with a sweet helpfulness that made every project better.",
 },
 {
   name: "Utkarsh Saxena",
@@ -506,7 +506,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "http://linkedin.com/in/keshav-anand-479712327",
   github: "",
   instagram: "https://instagram.com/keshav_anand_21",
-  note: "Keshav, your calm handling of every logistical storm was truly impressive. Thank you for your amazing spirit.",
+  note: "Bhaiya, your calm handling of every logistical storm was truly impressive. Thank you for your amazing spirit.",
 },
 {
   name: "Samriddh Dwivedi",
@@ -515,7 +515,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/samriddhdwivedi/",
   github: "",
   instagram: "https://www.instagram.com/samriddhdwivedi/",
-  note: "Samriddh, you captured our most beautiful moments and turned them into memories that will last forever. Thank you.",
+  note: "Bhaiya, you captured our most beautiful moments and turned them into memories that will last forever. Thank you.",
 },
 {
   name: "Drishti Verma",
@@ -542,7 +542,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/arunika-jain22",
   github: "",
   instagram: "https://instagram.com/aruunikaaaaa",
-  note: "Arunika, your dedication and creative flair were vital to our social media success. You'll be missed.",
+  note: "Didi, your dedication and creative flair were vital to our social media success. You'll be missed.",
 },
 {
   name: "Ishika Taneja",
@@ -551,7 +551,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/ishika-taneja",
   github: "",
   instagram: "https://instagram.com/_ishika_taneja",
-  note: "Ishika, thank you for your hard work and for always bringing a fresh perspective to our social platforms.",
+  note: "Didi, thank you for your hard work and for always bringing a fresh perspective to our social platforms.",
 },
 {
   name: "Janvi Singh",
@@ -560,7 +560,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/janvi-singh-55b680303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   github: "",
   instagram: "https://instagram.com/_janvi.singhh",
-  note: "Janvi, your dedication and sweet helpfulness made the social media team a better place for everyone.",
+  note: "Didi, your dedication and sweet helpfulness made the social media team a better place for everyone.",
 },
 {
   name: "Anushka Kalaskar",
@@ -569,7 +569,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/anushka-kalaskar-714933327",
   github: "",
   instagram: "https://instagram.com/anushka.eh",
-  note: "Anushka, thank you for your tireless work and for always being ready to share our team's story with the world.",
+  note: "Didi, thank you for your tireless work and for always being ready to share our team's story with the world.",
 },
 {
   name: "Treshaa",
@@ -578,7 +578,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/treshaa-pathak",
   github: "https://github.com/dontcuttrees",
   instagram: "https://instagram.com/_.treshaa._",
-  note: "Treshaa, your creative outlook and hard work were a vital part of our online presence. Thank you.",
+  note: "Didi, your creative outlook and hard work were a vital part of our online presence. Thank you.",
 },
 {
   name: "Sindhuja Dubey",
@@ -587,7 +587,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "http://linkedin.com/in/sindhuja-d-b368a7256",
   github: "",
   instagram: "https://instagram.com/sindhuja.dubeyy",
-  note: "Sindhuja, you ensured that every story worth telling was covered with heart and precision. Thank you.",
+  note: "Didi, you ensured that every story worth telling was covered with heart and precision. Thank you.",
 },
 {
   name: "Vaishak Yadav",
@@ -596,7 +596,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/vaishak-yadav-234481324?",
   github: "",
   instagram: "https://instagram.com/vaishakkkkk",
-  note: "Vaishak, your dedication to capturing the essence of our events has left us with a beautiful archive of memories.",
+  note: "Bhaiya, your dedication to capturing the essence of our events has left us with a beautiful archive of memories.",
 },
 {
   name: "Harshvardhan Pathak",
@@ -605,7 +605,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/harsh-pathak-v14",
   github: "",
   instagram: "https://instagram.com/Harsh.bhp",
-  note: "Harshvardhan, thank you for your commitment and for always being in the right place at the right time.",
+  note: "Bhaiya, thank you for your commitment and for always being in the right place at the right time.",
 },
 {
   name: "Rakshit Dubey",
@@ -614,7 +614,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/rakshit-dubey-b9b799283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   github: "",
   instagram: "https://instagram.com/@rakkk_21",
-  note: "Rakshit, you built more than just a community; you built a family. Your heart is the soul of this team.",
+  note: "Bhaiya, you built more than just a community; you built a family. Your heart is the soul of this team.",
 },
 {
   name: "Rahul Durgapal",
@@ -623,7 +623,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/rahuldurgapal555",
   github: "https://github.com/techie-rahul",
   instagram: "https://instagram.com/__rahul.555_",
-  note: "Rahul, your dedication to bringing people together was truly inspiring. Thank you for your warmth and care.",
+  note: "Bhaiya, your dedication to bringing people together was truly inspiring. Thank you for your warmth and care.",
 },
 {
   name: "Sanskar Gupta",
@@ -632,7 +632,7 @@ export const CORE_MEMBERS: TeamMember[] = [
   linkedin: "https://www.linkedin.com/in/sanskargupta2709/",
   github: "",
   instagram: "https://instagram.com/sanskargupta2709",
-  note: "Sanskar, thank you for your hard work and for always making sure that every member felt valued and heard.",
+  note: "Bhaiya, thank you for your hard work and for always making sure that every member felt valued and heard.",
 },
 {
   name: "Anshuman Singh",
