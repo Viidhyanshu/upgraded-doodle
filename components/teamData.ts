@@ -77,6 +77,12 @@ export const EC_MEMBERS: TeamMember[] = [
 
 export const CORE_MEMBERS: TeamMember[] = [
   {
+  name: "Anmol Rawal",
+  image: "/8.png",
+  role: "Joint Head Media/Corporate Affair",
+  note: "We will miss you",
+},
+  {
   name: "Aarush Dayal",
   image: "https://images.prismic.io/ieeemuj/aD2-Irh8WN-LVfO7_aarushdayal-ieeeweb-img-AarushDayal.jpeg?auto=format,compress",
   role: "Head of Programs",
